@@ -1,0 +1,11 @@
+:root {
+  --headerClr: #ffffff;
+  --bgClr: #dcddec;
+  --stopsClr: #1e2a32;
+  --blackIconClr: #2e2e2e;
+  --blackClr: #000000;
+  --blueClr: #1b31a8;
+  --distClr: #0079ff;
+  --ibmFamily: "IBM Plex Sans";
+  --workFamily: "Work Sans";
+}
